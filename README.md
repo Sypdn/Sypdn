@@ -5,16 +5,16 @@
 ### Selalu belajar, bereksperimen, dan membangun sesuatu lewat kode.
 
 <a href="https://www.tiktok.com/@sypdn__?_r=1&_t=ZS-9BZrWkUXYrB">
-  <img src="https://img.shields.io/badge/-FFFFFF?style=social&amp;logo=tiktok&amp;logoColor=111111" alt="TikTok" height="28">
+  <kbd><img src="https://cdn.simpleicons.org/tiktok/111111" alt="TikTok" height="24"></kbd>
 </a>
 <a href="https://www.instagram.com/sypdn____?gwpx=MWcwaWtxa3BmdzUwbw==">
-  <img src="https://img.shields.io/badge/-FFFFFF?style=social&amp;logo=instagram&amp;logoColor=E4405F" alt="Instagram" height="28">
+  <kbd><img src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" height="24"></kbd>
 </a>
 <a href="https://www.youtube.com/@Sypdn">
-  <img src="https://img.shields.io/badge/-FFFFFF?style=social&amp;logo=youtube&amp;logoColor=FF0000" alt="YouTube" height="28">
+  <kbd><img src="https://cdn.simpleicons.org/youtube/FF0000" alt="YouTube" height="24"></kbd>
 </a>
 <a href="https://t.me/Sypdn">
-  <img src="https://img.shields.io/badge/-FFFFFF?style=social&amp;logo=telegram&amp;logoColor=26A5E4" alt="Telegram" height="28">
+  <kbd><img src="https://cdn.simpleicons.org/telegram/26A5E4" alt="Telegram" height="24"></kbd>
 </a>
 
 </div>
@@ -28,14 +28,14 @@ Saya Sypdn. Saya senang menjelajahi ide baru, terus belajar, dan membagikan perj
 ## Bahasa & teknologi
 
 <p>
-  <img src="https://img.shields.io/badge/-FFFFFF?style=social&amp;logo=php&amp;logoColor=777BB4" alt="PHP" height="28">
-  <img src="https://img.shields.io/badge/-FFFFFF?style=social&amp;logo=html5&amp;logoColor=E34F26" alt="HTML5" height="28">
-  <img src="https://img.shields.io/badge/-FFFFFF?style=social&amp;logo=css&amp;logoColor=1572B6" alt="CSS" height="28">
-  <img src="https://img.shields.io/badge/-FFFFFF?style=social&amp;logo=cplusplus&amp;logoColor=00599C" alt="C++" height="28">
-  <img src="https://img.shields.io/badge/-FFFFFF?style=social&amp;logo=mysql&amp;logoColor=4479A1" alt="MySQL" height="28">
-  <img src="https://img.shields.io/badge/-FFFFFF?style=social&amp;logo=c&amp;logoColor=A8B9CC" alt="C" height="28">
-  <img src="https://img.shields.io/badge/-FFFFFF?style=social&amp;logo=python&amp;logoColor=3776AB" alt="Python" height="28">
-  <img src="https://img.shields.io/badge/-FFFFFF?style=social&amp;logo=openjdk&amp;logoColor=ED8B00" alt="Java" height="28">
+  <kbd><img src="https://cdn.simpleicons.org/php/777BB4" alt="PHP" height="24"></kbd>
+  <kbd><img src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML5" height="24"></kbd>
+  <kbd><img src="https://cdn.simpleicons.org/css/1572B6" alt="CSS" height="24"></kbd>
+  <kbd><img src="https://cdn.simpleicons.org/cplusplus/00599C" alt="C++" height="24"></kbd>
+  <kbd><img src="https://cdn.simpleicons.org/mysql/4479A1" alt="MySQL" height="24"></kbd>
+  <kbd><img src="https://cdn.simpleicons.org/c/A8B9CC" alt="C" height="24"></kbd>
+  <kbd><img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" height="24"></kbd>
+  <kbd><img src="https://cdn.simpleicons.org/openjdk/ED8B00" alt="Java" height="24"></kbd>
 </p>
 
 ## Statistik GitHub
