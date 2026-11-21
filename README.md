@@ -1,20 +1,20 @@
 <div align="center">
 
-# Halo, saya Sypdn 👋
+# Halo, saya Syaepuddin 👋
 
 ### Selalu belajar, bereksperimen, dan membangun sesuatu lewat kode.
 
 <a href="https://www.tiktok.com/@sypdn__?_r=1&_t=ZS-9BZrWkUXYrB">
-  <img src="https://img.shields.io/badge/TikTok-ikuti%20saya-111111?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok Sypdn">
+  <img src="https://cdn.simpleicons.org/tiktok/111111" alt="TikTok" height="32">
 </a>
 <a href="https://www.instagram.com/sypdn____?gwpx=MWcwaWtxa3BmdzUwbw==">
-  <img src="https://img.shields.io/badge/Instagram-terhubung-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Sypdn">
+  <img src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" height="32">
 </a>
 <a href="https://www.youtube.com/@Sypdn">
-  <img src="https://img.shields.io/badge/YouTube-subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Sypdn">
+  <img src="https://cdn.simpleicons.org/youtube/FF0000" alt="YouTube" height="32">
 </a>
 <a href="https://t.me/Sypdn">
-  <img src="https://img.shields.io/badge/Telegram-sapa%20saya-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Sypdn">
+  <img src="https://cdn.simpleicons.org/telegram/26A5E4" alt="Telegram" height="32">
 </a>
 
 </div>
@@ -28,15 +28,30 @@ Saya Sypdn. Saya senang menjelajahi ide baru, terus belajar, dan membagikan perj
 ## Bahasa & teknologi
 
 <p>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://cdn.simpleicons.org/php/777BB4" alt="PHP" height="36">
+  <img src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML5" height="36">
+  <img src="https://cdn.simpleicons.org/css/1572B6" alt="CSS" height="36">
+  <img src="https://cdn.simpleicons.org/cplusplus/00599C" alt="C++" height="36">
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" alt="MySQL" height="36">
+  <img src="https://cdn.simpleicons.org/c/A8B9CC" alt="C" height="36">
+  <img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" height="36">
+  <img src="https://cdn.simpleicons.org/openjdk/ED8B00" alt="Java" height="36">
 </p>
+
+## Statistik GitHub
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Sypdn&show_icons=true&include_all_commits=true&hide_border=true&theme=github_dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Sypdn&show_icons=true&include_all_commits=true&hide_border=true&theme=default">
+    <img src="https://github-readme-stats.vercel.app/api?username=Sypdn&show_icons=true&include_all_commits=true&hide_border=true&theme=default" alt="Statistik GitHub Syaepuddin">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Sypdn&langs_count=8&hide_border=true&theme=github_dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Sypdn&langs_count=8&hide_border=true&theme=default">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sypdn&langs_count=8&hide_border=true&theme=default" alt="Statistik persentase bahasa yang terdeteksi di repository publik Syaepuddin">
+  </picture>
+</div>
 
 ## Contribution arcade
 
