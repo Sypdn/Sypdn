@@ -35,7 +35,8 @@ Saya Syaepuddin. Saya senang menjelajahi ide baru, terus belajar, dan membagikan
   <img src="https://cdn.simpleicons.org/mysql/4479A1" alt="MySQL" height="36">
   <img src="https://cdn.simpleicons.org/c/A8B9CC" alt="C" height="36">
   <img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" height="36">
-  <img src="https://cdn.simpleicons.org/openjdk/ED8B00" alt="Java" height="36"> Java 100%
+  <img src="https://cdn.simpleicons.org/openjdk/ED8B00" alt="Java" height="36">
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" height="36">
 </p>
 
 ## Statistik GitHub
@@ -47,9 +48,9 @@ Saya Syaepuddin. Saya senang menjelajahi ide baru, terus belajar, dan membagikan
     <img src="https://github-readme-stats.vercel.app/api?username=Sypdn&show_icons=true&include_all_commits=true&hide_border=true&theme=default" alt="Statistik GitHub Syaepuddin">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Sypdn&langs_count=8&hide_border=true&theme=github_dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Sypdn&langs_count=8&hide_border=true&theme=default">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sypdn&langs_count=8&hide_border=true&theme=default" alt="Statistik persentase bahasa yang terdeteksi di repository publik Syaepuddin">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Sypdn&langs_count=20&cache_seconds=21600&hide_border=true&theme=github_dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Sypdn&langs_count=20&cache_seconds=21600&hide_border=true&theme=default">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sypdn&langs_count=20&cache_seconds=21600&hide_border=true&theme=default" alt="Statistik persentase bahasa yang terdeteksi di repository publik Syaepuddin">
   </picture>
 </div>
 
