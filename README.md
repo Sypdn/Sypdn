@@ -35,7 +35,7 @@ Saya Syaepuddin. Saya senang menjelajahi ide baru, terus belajar, dan membagikan
   <img src="https://cdn.simpleicons.org/mysql/4479A1" alt="MySQL" height="36">
   <img src="https://cdn.simpleicons.org/c/A8B9CC" alt="C" height="36">
   <img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" height="36">
-  <img src="https://cdn.simpleicons.org/openjdk/ED8B00" alt="Java" height="36">
+  <img src="https://cdn.simpleicons.org/openjdk/ED8B00" alt="Java" height="36"> Java 100%
 </p>
 
 ## Statistik GitHub
